@@ -44,6 +44,41 @@ header > h1.header__title--main {
     margin: auto;
     width: 730px;
     color: white;
-    text-transform: uppercase;
-    
+    text-transform: uppercase;   
+}
+
+section > h1.header {
+    text-align: center;
+    font-size: 50px;
+    left: 0;
+    right: 0;   
+}
+
+section > p.content {
+    font-size: 20px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.contact {
+    background-color: black;
+    color: white;
+}
+
+footer > h2 {
+    text-align: center;
+    padding: 20px;
+}
+
+footer > address {
+    text-align: center;
+    font-style: normal;
+    padding-bottom: 20px;
+}
+
+footer > address > a {
+    color: white;
 }
